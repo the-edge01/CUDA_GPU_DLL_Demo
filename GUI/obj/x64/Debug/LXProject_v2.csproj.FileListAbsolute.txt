@@ -1,0 +1,12 @@
+D:\LXProject\Software\console\trunk\LXProject_v2\LXProject_v2\bin\x64\Debug\LXProject_v2.exe.config
+D:\LXProject\Software\console\trunk\LXProject_v2\output\bin\win64\Debug\LXProject_v2.exe.config
+D:\LXProject\Software\console\trunk\LXProject_v2\output\bin\win64\Debug\LXProject_v2.exe
+D:\LXProject\Software\console\trunk\LXProject_v2\output\bin\win64\Debug\LXProject_v2.pdb
+D:\LXProject\Software\console\trunk\LXProject_v2\LXProject_v2\obj\x64\Debug\LXProject_v2.Form1.resources
+D:\LXProject\Software\console\trunk\LXProject_v2\LXProject_v2\obj\x64\Debug\LXProject_v2.Properties.Resources.resources
+D:\LXProject\Software\console\trunk\LXProject_v2\LXProject_v2\obj\x64\Debug\LXProject_v2.csproj.GenerateResource.Cache
+D:\LXProject\Software\console\trunk\LXProject_v2\LXProject_v2\obj\x64\Debug\LXProject_v2.exe
+D:\LXProject\Software\console\trunk\LXProject_v2\LXProject_v2\obj\x64\Debug\LXProject_v2.pdb
+D:\LXProject\Software\console\trunk\LXProject_v2\LXProject_v2\obj\x64\Debug\LXProject_v2.csprojResolveAssemblyReference.cache
+D:\LXProject\Software\console\trunk\LXProject_v2\LXProject_v2\obj\x64\Debug\LXProject_v2.ChannelControl.resources
+D:\LXProject\Software\console\trunk\LXProject_v2\LXProject_v2\obj\x64\Debug\LXProject_v2.EditChannels.resources

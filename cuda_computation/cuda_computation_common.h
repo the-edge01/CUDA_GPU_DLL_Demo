@@ -1,0 +1,26 @@
+﻿//2019 Eric Johnson
+
+
+#ifndef CUDA_COMMON_H
+#define CUDA_COMMON_H
+
+
+#include <cuda_runtime.h>
+
+
+#define blocksize 256
+
+
+////////////////////////////////////////////////////////////////////////////////
+// GPU
+////////////////////////////////////////////////////////////////////////////////
+
+extern "C" void GPU_DLL_DEMO_GPU(
+	int* d_input,
+	int* d_output,
+	const int adder,
+	const int length
+);
+
+
+#endif
